@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+    <class name="Domain.Student, Domain" lazy="true">
+
+        <id name="Id">
+            <generator class="assigned" />
+        </id>
+        <version name="version" type="timestamp" access="field" />
+
+        <property name="FirstName" />
+        <property name="LastName" />
+        <property name="HasGraduated" />
+        <property name="credits" access="field" />
+        <property name="registrationSequence" access="field"
+                  type="Infrastructure.Impl.NHibernateIdSequenceType, Infrastructure.Impl" />
+
+        <set name="registrations" access="field" cascade="all-delete-orphan">
+            <key column="StudentRegistration_Id" />
+            <one-to-many class="Domain.Registration, Domain" />
+        </set>
+
+        <set name="passedClasses" access="field" cascade="all">
+            <key column="StudentPassed_Id" />
+            <element type="Guid" />
+        </set>
+
+        <set name="failedClasses" access="field" cascade="all">
+            <key column="StudentFailed_Id" />
+            <element type="Guid" />
+        </set>
+
+    </class>
+</hibernate-mapping>
+

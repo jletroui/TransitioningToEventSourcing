@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+    <class name="Domain.Registration, Domain" lazy="true">
+
+        <composite-id>
+            <key-many-to-one name="aggregateRoot" access="field" class="Domain.Student, Domain"/>
+            <key-property name="Id"/>
+        </composite-id>
+        <version name="version" type="timestamp" access="field" />
+
+        <property name="classId" access="field" />
+        <property name="classCredits" access="field" />
+
+    </class>
+</hibernate-mapping>
+

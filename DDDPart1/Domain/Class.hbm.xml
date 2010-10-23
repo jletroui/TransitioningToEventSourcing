@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+    <class name="Domain.Class, Domain" lazy="true">
+
+        <id name="Id">
+            <generator class="assigned" />
+        </id>
+        <version name="version" type="timestamp" access="field" />
+
+        <property name="Name" />
+        <property name="Credits" />
+
+    </class>
+</hibernate-mapping>
+

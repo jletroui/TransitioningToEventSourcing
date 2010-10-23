@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<queries>
+    <query name="ByNameLike" defaultSort="Id">
+        <count>SELECT COUNT(*) FROM Student WHERE student.FirstName LIKE '%@Name%' OR student.LastName LIKE '%@Name%'</count>
+        <select>
+            SELECT student.Id,
+            student.FirstName,
+            student.LastName
+            FROM Student student
+            WHERE student.FirstName LIKE '%@Name%' OR student.LastName LIKE '%@Name%'
+        </select>
+    </query>
+    <query name="All" defaultSort="Id">
+        <count>SELECT COUNT(*) FROM Student</count>
+        <select>
+            SELECT student.Id,
+            student.FirstName,
+            student.LastName
+            FROM Student student
+        </select>
+    </query>
+    <query name="ById" defaultSort="Id">
+        <count></count>
+        <select>
+            SELECT student.Id,
+            student.firstName AS FirstName,
+            student.lastName AS LastName,
+            student.hasGraduated AS HasGraduated
+            FROM Student student
+            WHERE student.Id = @Id;
+
+            SELECT reg.Id,
+            class.Id AS [Class.Id],
+            class.name AS [Class.Name],
+            class.credits AS [Class.Credits]
+            FROM Registration reg
+            INNER JOIN Class class ON class.Id = reg.classId
+            WHERE aggregateRoot = @Id;
+        </select>
+    </query>
+    <query name="ByIdForRegistration" defaultSort="Id">
+        <count></count>
+        <select>
+            SELECT student.Id,
+            student.firstName AS FirstName,
+            student.lastName AS LastName,
+            student.hasGraduated AS HasGraduated
+            FROM Student student
+            WHERE student.Id = @Id;
+
+            SELECT class.Id,
+            class.name AS Name,
+            class.credits AS Credits
+            FROM Class class
+            WHERE class.Id NOT IN (SELECT classId FROM Registration WHERE aggregateRoot = @Id);
+        </select>
+    </query>
+</queries>

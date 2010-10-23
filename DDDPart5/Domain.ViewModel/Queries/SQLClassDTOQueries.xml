@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<queries>
+    <query name="All" defaultSort="Id">
+        <count>SELECT COUNT(*) FROM Class</count>
+        <select>
+            SELECT class.Id,
+            class.name as Name,
+            class.credits as Credits
+            FROM Class class
+        </select>
+    </query>
+</queries>
