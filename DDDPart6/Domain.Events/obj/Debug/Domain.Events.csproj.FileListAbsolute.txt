@@ -1,0 +1,16 @@
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Events\bin\Debug\Domain.Events.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Events\bin\Debug\Domain.Events.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Events\bin\Debug\Infrastructure.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Events\bin\Debug\nVentive.Umbrella.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Events\bin\Debug\Infrastructure.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Events\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Events\obj\Debug\Domain.Events.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Events\obj\Debug\Domain.Events.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Events\bin\Debug\Domain.Events.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Events\bin\Debug\Domain.Events.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Events\bin\Debug\Infrastructure.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Events\bin\Debug\nVentive.Umbrella.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Events\bin\Debug\Infrastructure.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Events\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Events\obj\Debug\Domain.Events.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Events\obj\Debug\Domain.Events.pdb

@@ -1,0 +1,18 @@
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Web\bin\Debug\Infrastructure.Web.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Web\bin\Debug\Infrastructure.Web.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Web\bin\Debug\Infrastructure.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Web\bin\Debug\MvcContrib.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Web\bin\Debug\nVentive.Umbrella.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Web\bin\Debug\Infrastructure.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Web\obj\Debug\Infrastructure.Web.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Web\obj\Debug\Infrastructure.Web.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Web\bin\Debug\Infrastructure.Web.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Web\bin\Debug\Infrastructure.Web.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Web\bin\Debug\Infrastructure.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Web\bin\Debug\MvcContrib.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Web\bin\Debug\nVentive.Umbrella.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Web\bin\Debug\Infrastructure.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Web\obj\Debug\Infrastructure.Web.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Web\obj\Debug\Infrastructure.Web.pdb

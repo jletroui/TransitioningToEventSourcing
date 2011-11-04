@@ -1,0 +1,31 @@
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Domain.CommandHandlers.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Domain.CommandHandlers.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Domain.Commands.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Domain.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Infrastructure.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Iesi.Collections.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Domain.Events.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\nVentive.Umbrella.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Domain.Commands.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Domain.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Infrastructure.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\bin\Debug\Domain.Events.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\obj\Debug\Domain.CommandHandlers.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.CommandHandlers\obj\Debug\Domain.CommandHandlers.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Domain.CommandHandlers.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Domain.CommandHandlers.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Domain.Commands.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Domain.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Infrastructure.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Iesi.Collections.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Domain.Events.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\nVentive.Umbrella.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Domain.Commands.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Domain.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Infrastructure.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Domain.Events.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\obj\Debug\Domain.CommandHandlers.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\obj\Debug\Domain.CommandHandlers.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.CommandHandlers\bin\Debug\Domain.CommandHandlers.dll.config

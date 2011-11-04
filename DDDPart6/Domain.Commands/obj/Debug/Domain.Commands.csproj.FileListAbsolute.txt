@@ -1,0 +1,16 @@
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Commands\bin\Debug\Domain.Commands.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Commands\bin\Debug\Domain.Commands.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Commands\bin\Debug\Infrastructure.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Commands\bin\Debug\nVentive.Umbrella.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Commands\bin\Debug\Infrastructure.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Commands\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Commands\obj\Debug\Domain.Commands.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.Commands\obj\Debug\Domain.Commands.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Commands\bin\Debug\Domain.Commands.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Commands\bin\Debug\Domain.Commands.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Commands\bin\Debug\Infrastructure.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Commands\bin\Debug\nVentive.Umbrella.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Commands\bin\Debug\Infrastructure.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Commands\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Commands\obj\Debug\Domain.Commands.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.Commands\obj\Debug\Domain.Commands.pdb

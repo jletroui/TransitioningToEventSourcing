@@ -1,0 +1,20 @@
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\bin\Debug\Domain.PersistenceHandlers.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\bin\Debug\Domain.PersistenceHandlers.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\bin\Debug\Domain.Events.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\bin\Debug\Infrastructure.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\bin\Debug\nVentive.Umbrella.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\bin\Debug\Domain.Events.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\bin\Debug\Infrastructure.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\obj\Debug\Domain.PersistenceHandlers.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Domain.PersistenceHandlers\obj\Debug\Domain.PersistenceHandlers.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\bin\Debug\Domain.PersistenceHandlers.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\bin\Debug\Domain.PersistenceHandlers.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\bin\Debug\Domain.Events.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\bin\Debug\Infrastructure.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\bin\Debug\nVentive.Umbrella.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\bin\Debug\Domain.Events.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\bin\Debug\Infrastructure.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\obj\Debug\Domain.PersistenceHandlers.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Domain.PersistenceHandlers\obj\Debug\Domain.PersistenceHandlers.pdb

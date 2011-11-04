@@ -1,0 +1,29 @@
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Infrastructure.Impl.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Infrastructure.Impl.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Castle.Core.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Castle.MicroKernel.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Castle.Windsor.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Iesi.Collections.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Infrastructure.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\NHibernate.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\nVentive.Umbrella.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Antlr3.Runtime.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\log4net.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\bin\Debug\Infrastructure.pdb
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\obj\Debug\Infrastructure.Impl.dll
+C:\Users\jletrouit\Documents\Visual Studio 2010\Projects\TransitioningToEventSourcing\DDDPart5\Infrastructure.Impl\obj\Debug\Infrastructure.Impl.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\Infrastructure.Impl.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\Infrastructure.Impl.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\Castle.Core.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\Castle.MicroKernel.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\Castle.Windsor.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\Iesi.Collections.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\Infrastructure.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\nVentive.Umbrella.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\bin\Debug\Infrastructure.pdb
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\obj\Debug\Infrastructure.Impl.dll
+C:\Users\julien\Documents\TransitioningToEventSourcing\DDDPart6\Infrastructure.Impl\obj\Debug\Infrastructure.Impl.pdb
