@@ -11,10 +11,12 @@ namespace Infrastructure.Impl
     public class ContainerCommandBus : ICommandBus
     {
         private IContainer container;
+        private IPersistenceManager persistenceManager;
 
-        public ContainerCommandBus(IContainer container)
+        public ContainerCommandBus(IContainer container, IPersistenceManager persistenceManager)
         {
             this.container = container;
+            this.persistenceManager = persistenceManager;
         }
 
         public void Send<T>(T cmd) where T : ICommand
@@ -27,6 +29,8 @@ namespace Infrastructure.Impl
                 try
                 {
                     handler.Handle(cmd);
+                    // Trigger persistence and concurrency checking.
+                    persistenceManager.Commit();
                     handled = true;
                 }
                 catch (ConcurrencyException)

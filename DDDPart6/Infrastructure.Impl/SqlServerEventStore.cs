@@ -20,40 +20,27 @@ namespace Infrastructure.Impl
             this.persistenceManager = persistenceManager;
         }
 
+        private const int UniqueKeyViolation = 2627;
+
         public void PersistUncommitedEvents(IAggregateRoot aggregate)
         {
-            persistenceManager.ExecuteNonQuery(
-                "INSERT INTO [Events] (Id, aggregate_id, version, data) VALUES (@Id, @AggregateId, @Version, @Data)",
-                new
-                {
-                    Id = Guid.NewGuid(),
-                    Version = aggregate.Version + 1,
-                    AggregateId = aggregate.Id,
-                    Data = Serialize(aggregate.UncommitedEvents)
-                });
-
-            if (aggregate.Version == 0)
+            try
             {
                 persistenceManager.ExecuteNonQuery(
-                    "INSERT INTO [Aggregates] (aggregate_id, version) VALUES (@AggregateId, 1)",
+                    "INSERT INTO [Events] (Id, aggregate_id, version, data) VALUES (@Id, @AggregateId, @Version, @Data)",
                     new
                     {
-                        AggregateId = aggregate.Id
+                        Id = Guid.NewGuid(),
+                        Version = aggregate.Version + 1,
+                        AggregateId = aggregate.Id,
+                        Data = Serialize(aggregate.UncommitedEvents)
                     });
             }
-            else
+            catch (SqlException se)
             {
-                var rowCount = persistenceManager.ExecuteNonQuery(
-                    "UPDATE [Aggregates] SET Version = @Version WHERE aggregate_id = @AggregateId AND Version = @Expected",
-                    new
-                    {
-                        AggregateId = aggregate.Id,
-                        Version = aggregate.Version + 1,
-                        Expected = aggregate.Version
-                    });
-
-                // The version evolved since we performed the command, so we have to retry the command.
-                if (rowCount != 1) throw new ConcurrencyException();
+                // Thanks Jonathan Oliver's CQRS Event Store
+                if (se.Number == UniqueKeyViolation) throw new ConcurrencyException();
+                throw;
             }
         }
 

@@ -96,6 +96,7 @@ namespace Infrastructure.Impl
                     catch (ConcurrencyException)
                     {
                         tx.Rollback();
+                        context[TRANSACTION_KEY] = null;
                         throw;
                     }
 
